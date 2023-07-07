@@ -1,0 +1,13 @@
+@ Avoid making your CPU smoke. Allow your CPU to idle( if he can )
+FPSLimit=20
+
+@ The IP of the PC you will use to play the game
+VideoCapturePCIP=127.0.0.1
+VideoCapturePCPort=6888
+
+@ Only valid for audio transfer program
+AudioCapturePCIP=127.0.0.1
+AudioCapturePCPort=6889
+
+@ If audio is in front of video due to encoding settings. You can force audio to start lagging. Value is in milliseconds
+ForcedAudioLatency=0
